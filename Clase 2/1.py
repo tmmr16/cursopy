@@ -13,7 +13,6 @@ b = 20
 print("Suma dos numeros ", a+b)
 print("Resta dos numeros")
 print("Resta dos numeros ", a-b)
-//Comentario1
 '''varias lineas comentarios 
 varias lineas'''
 #comentario 1 linea
